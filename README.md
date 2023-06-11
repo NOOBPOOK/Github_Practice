@@ -1,1 +1,1 @@
-"# Github_Practice" 
+This is my first practice using Git infrastructure. I followed the commands displayed on the github page and installed git on my computer. So now I will try to push this repo through my local computer itself.
